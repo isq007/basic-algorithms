@@ -1,0 +1,60 @@
+Solutions
+
+Problem 1: Calculate the Sum of Natural Numbers
+
+solution : 
+
+	start
+        input a number n
+	initialize sum=0
+	loop from i=1 to n
+	   add i to sum
+	display the sum
+        end
+
+Problem 2: Check for Prime Number
+
+solution:
+	
+	start	
+	input a number n
+	if n is less than 2 print "Not a prime number" and stop
+	loop from i=2 to √n 
+	 if n is divisible by i, print "Not a prime number" and stop
+	if no divisors are sound, print "Prime number"
+	end
+
+Problem 3: Find the Maximum of Three Numbers
+solution:
+
+
+        Start
+        Input three numbers: a, b, and c
+ 	If a is greater than or equal to b and a is greater than or equal to c, then a is 	the largest
+	Else if b is greater than or equal to a and b is greater than or equal to c, then b 	is the largest
+	Else, c is the largest
+	Print the largest number
+	End
+
+Problem 4: Factorial Calculation
+
+
+Problem 5: Check if a Number is Even or Odd
+solution:
+
+	Start
+	Input a number n
+	If n % 2 == 0, print "Even"
+	Else, print "Odd"
+	End
+
+	
+
+
+
+	
+
+
+
+
+	
